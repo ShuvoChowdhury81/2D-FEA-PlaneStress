@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.autosave
+*.fig
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.pdf  # Optional: Keep PDF if you want people to read the report directly
+
+# System
+.DS_Store
+Thumbs.db
