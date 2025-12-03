@@ -49,7 +49,7 @@ $$k^e = \int_{-1}^{1} \int_{-1}^{1} B^T D B \cdot t \cdot \det(J) \, d\xi d\eta$
 
 Acknowledgements
 
-Author: [Your Name]
+Author: [Shuvo Chowdhury]
 
 Course: ME 5310, Fall 2025
 
